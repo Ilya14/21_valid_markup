@@ -1,6 +1,11 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+## Description
+
+The site of Real Estate agency is intended for correction of imposition errors and a validity check
+on the basis of W3C Markup Validation and YSlow services.
+
+The site is available at the [address](https://Ilya14.github.io/21_valid_markup/).
 
 # Project Goals
 
